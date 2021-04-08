@@ -1,2 +1,2 @@
 # soundcloudplayer
-SoundCloud player using JavaScript and SoundCloud API 
+https://y-deepak.github.io/soundcloudplayer/
